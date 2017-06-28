@@ -10,7 +10,9 @@ I am currently a third-year PhD student at the University of Melbourne. I work o
 
 In a previous life I worked as a Software Engineer at a [company](https://www.millenniumit.com/about-us) which developed high-frequency trading software for the London Stock Exchange. I have also worked in Australia as a [data science intern](http://findanexpert.unimelb.edu.au/display/grant36834) at Telstra Corporation. 
 
+<!--
 I have tutored the subjects [COMP30023 Computer Systems](https://handbook.unimelb.edu.au/2017/subjects/comp30023) where I taught undergraduate students about Operating Systems, and [COMP90007 Internet Technologies](https://handbook.unimelb.edu.au/2017/subjects/comp90007) where I taught master's students about Computer Networks. 
+-->
 
 I have a healthy obsession with stand-up comedy - and a rather unhealthy one with Malaysian street food. 
 
