@@ -1,4 +1,32 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-06-28T20:19:33+10:00</updated><id>http://localhost:4000/</id><title type="html">Pasan Karunaratne</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">Markdown Extra Components</title><link href="http://localhost:4000/markdown-extra-components/" rel="alternate" type="text/html" title="Markdown Extra Components" /><published>2016-02-24T22:48:00+11:00</published><updated>2016-02-24T22:48:00+11:00</updated><id>http://localhost:4000/markdown-extra-components</id><content type="html" xml:base="http://localhost:4000/markdown-extra-components/">&lt;h2 id=&quot;summary&quot;&gt;Summary:&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-06-28T20:51:42+10:00</updated><id>http://localhost:4000/</id><title type="html">Pasan Karunaratne</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">What is a hyperparameter?</title><link href="http://localhost:4000/what-is-a-hyperparameter/" rel="alternate" type="text/html" title="What is a hyperparameter?" /><published>2017-06-28T20:26:00+10:00</published><updated>2017-06-28T20:26:00+10:00</updated><id>http://localhost:4000/what-is-a-hyperparameter</id><content type="html" xml:base="http://localhost:4000/what-is-a-hyperparameter/">&lt;p&gt;A hyperparameter is a knob.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/hyperparameter-post/knob.jpg&quot; alt=&quot;knob&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s a knob that you tweak in your model to control its learning process.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Hyper&lt;/em&gt;parameters are a bit different from what we normally call a parameter.&lt;/p&gt;
+
+&lt;p&gt;Parameters serve as a representation of your data. A &lt;em&gt;parameteric&lt;/em&gt; type of model represents your data as a set of parameters.&lt;/p&gt;
+
+&lt;p&gt;For example, the data given below can be represented with a linear model with the parameters (m = 3, c = 7)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/hyperparameter-post/linear-model.png&quot; alt=&quot;linear-model-parameters&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In contrast to model parameters, hyperparameters do not represent data. Hyperparameters are not part of the model that describes the data. Hyperparameters are &lt;em&gt;generally&lt;/em&gt; not learned and not tuned during the learning process.&lt;/p&gt;
+
+&lt;p&gt;Hyperparameters are the control knobs to the learning process. Some examples of hyperparameters are the learning rate (in gradient descent) or the number of leaves (in a decision tree).&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;em&gt;Fine print&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;A more rigorous explanation would be that a hyperparameter encodes prior belief about how your parameters are distributed.&lt;/p&gt;
+
+&lt;p&gt;You pick a distribution that you think will describe your data. This distribution would have parameters (for example, the normal distribution has the parameters mean and standard deviation). If you pick a distribution that describes those parameters, the parameters of this ‘higher-level’ distribution would be the hyperparameters.&lt;/p&gt;
+
+&lt;p&gt;In short, hyperparameters are the parameters of a distribution that is put on the model parameters.&lt;/p&gt;
+
+&lt;hr /&gt;</content><author><name>pasankarunaratne</name></author><category term="machine learning" /><category term="machine learning" /><category term="data science" /><summary type="html">A hyperparameter is a knob.</summary></entry><entry><title type="html">Markdown Extra Components</title><link href="http://localhost:4000/markdown-extra-components/" rel="alternate" type="text/html" title="Markdown Extra Components" /><published>2016-02-24T22:48:00+11:00</published><updated>2016-02-24T22:48:00+11:00</updated><id>http://localhost:4000/markdown-extra-components</id><content type="html" xml:base="http://localhost:4000/markdown-extra-components/">&lt;h2 id=&quot;summary&quot;&gt;Summary:&lt;/h2&gt;
 
 &lt;p&gt;You can pick as item to see how to apply in markdown.&lt;/p&gt;
 
