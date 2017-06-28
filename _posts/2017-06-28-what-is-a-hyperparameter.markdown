@@ -7,7 +7,7 @@ headerImage: false
 projects: false
 hidden: false # don't count this post in blog pagination
 description: "Intuitive explanation of what a hyperparameter is"
-category: machine learning
+category: blog
 author: pasankarunaratne
 externalLink: false
 ---

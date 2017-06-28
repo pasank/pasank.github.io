@@ -4,20 +4,18 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+Greetings!
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+I am currently a third-year PhD student at the University of Melbourne. I work on [predictive analytics](https://ijcai-17.org/accepted-papers.html) on Smart City data, and I also have experience building scalable architectures for [stream processing](http://www.sciencedirect.com/science/article/pii/S0743731516300697).  
 
+In a previous life I worked as a Software Engineer at a [company](https://www.millenniumit.com/about-us) which developed high-frequency trading software for the London Stock Exchange. I have also worked in Australia as a [data science intern](http://findanexpert.unimelb.edu.au/display/grant36834) at Telstra Corporation. 
+
+I have tutored the subjects [COMP30023 Computer Systems](https://handbook.unimelb.edu.au/2017/subjects/comp30023) where I taught undergraduate students about Operating Systems, and [COMP90007 Internet Technologies](https://handbook.unimelb.edu.au/2017/subjects/comp90007) where I taught master's students about Computer Networks. 
+
+I have a healthy obsession with stand-up comedy - and a rather unhealthy one with Malaysian street food. 
+
+
+<!--
 <h2>Skills</h2>
 
 <ul class="skill-list">
@@ -44,3 +42,4 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 	<li><a href="https://github.com/">Ipsum Dolor</a></li>
 	<li><a href="https://github.com/">Dolor Lorem</a></li>
 </ul>
+-->
