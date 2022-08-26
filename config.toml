@@ -1,13 +1,18 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://pasank.com/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "anatole"
 
 [params]
-title = "I'm Pasan"
+title = "Pasan Karunaratne"
 author = "Pasan Karunaratne"
-description = "I like machine learning"
+description = "My machine learning musings"
 profilePicture = "images/profile-pic-sea.jpeg"
+
+[[params.socialIcons]]
+icon = "fab fa-twitter"
+title = "Twitter"
+url = "https://twitter.com/pasanOnline"
 
 [[params.socialIcons]]
 icon = "fab fa-linkedin"
@@ -24,13 +29,7 @@ icon = "fab fa-github"
 title = "GitHub"
 url = "https://github.com/pasank"
 
-[[params.socialIcons]]
-icon = "fab fa-twitter"
-title = "Twitter"
-url = "https://twitter.com/pasanOnline"
-
 [menu]
-
   [[menu.main]]
   name = "Home"
   identifier = "home"
