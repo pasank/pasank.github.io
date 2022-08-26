@@ -1,7 +1,8 @@
 baseURL = 'http://pasank.com/'
 languageCode = 'en-us'
 title = 'Pasan Karunaratne'
-theme = "anatole"
+#theme = "anatole"
+theme = "PaperMod"
 
 [params]
 title = "Pasan Karunaratne"
