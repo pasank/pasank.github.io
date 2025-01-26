@@ -1,9 +1,9 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+title: "TIL Placeholder"
+date: 2025-01-26T10:07:01+11:00
 description: 
-draft: true
-tags: ["learning"]
+draft: false
+tags: ["TIL"]
 author: "Pasan Karunaratne"
 showToc: true
 TocOpen: false

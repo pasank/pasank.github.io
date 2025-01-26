@@ -1,6 +1,6 @@
 baseURL: "https://pasank.com" # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
 title: Pasan writes about AI 
-paginate: 5
+paginate.pagerSize: 5
 theme: PaperMod
 # contentDir: content/posts
 
@@ -32,8 +32,8 @@ languages:
                 #   weight: 5
                 - name: Blog
                   url: /blog/
-                - name: Learning
-                  url: /learning/
+                - name: TIL
+                  url: /til/
                 - name: Search
                   url: search/
                   weight: 10
@@ -70,7 +70,7 @@ params:
 
     mainSections:
       - blog
-      - learning
+      - til
     profileMode:
         enabled: false
         title: PaperMod

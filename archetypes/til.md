@@ -1,9 +1,9 @@
 ---
-title: "Learning Placeholder"
-date: 2025-01-26T10:07:01+11:00
+title: "{{ replace .Name "-" " " | title }}"
+date: {{ .Date }}
 description: 
-draft: false
-tags: ["learning"]
+draft: true
+tags: ["TIL"]
 author: "Pasan Karunaratne"
 showToc: true
 TocOpen: false
